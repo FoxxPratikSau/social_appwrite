@@ -20,4 +20,10 @@ class UIConstants {
       ),
     );
   }
+
+  static List<Widget> bottomTabBarPages = [
+    Text('Feed Screen'),
+    Text('Search Screen'),
+    Text('Notifi Screen'),
+  ];
 }
